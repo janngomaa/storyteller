@@ -28,10 +28,8 @@ Copy and paste the code you provided into app.py.
 Create a file named .env in your project directory.
 Add your OpenAI API key, ElevenLabs API key, model names, and any other configurations your code requires. For example:
 ```
-OPENAI_API_KEY=your_openai_api_key_here
 OPENAI_MODEL=gpt-3.5-turbo-1106
 OPENAI_TEMPERATURE=1
-ELEVENLABS_API_KEY=your_elevenlabs_api_key_here
 ELEVENLABS_MODEL_NAME=eleven_multilingual_v2
 ELEVENLABS_VOICE_NAME=Rachel
 ```
