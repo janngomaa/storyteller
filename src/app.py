@@ -99,8 +99,8 @@ with st.sidebar:
         type="password"
     )
 
-    "[View the code](https://github.com/streamlit/llm-examples/blob/main/pages/1_File_Q%26A.py)"
-    "[Open in GitHub](https://codespaces.new/streamlit/llm-examples?quickstart=1)"
+    "[View the code](https://github.com/janngomaa/storyteller)"
+    "[Open in GitHub](https://github.com/janngomaa/storyteller)"
 
 if not openai_api_key:
     st.info("Please add your OpenAI API key to continue.")
